@@ -81,7 +81,9 @@ Note: The provided code offers a foundation for a social media dropdown menu. Yo
 - Customizable to fit specific design and functionality requirements..
 
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6dc27514-de89-48ca-b416-02f1fd85308e/deploy-status)](https://app.netlify.com/sites/jsprojects24-social-media-dropdown/deploys)
 
 
 ## Contributing
