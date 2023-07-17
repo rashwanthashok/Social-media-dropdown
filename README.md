@@ -17,7 +17,7 @@ Rashwanth-Social media dropdown is a responsive and interactive dropdown menu de
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Socialmedia-Dropdown/
+    https://rashwanthashok.github.io/Social-media-dropdown/
 ## Getting Started
 
 To get started with the Rashwanth-Social media dropdown, follow these steps:
